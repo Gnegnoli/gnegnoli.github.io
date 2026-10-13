@@ -1,0 +1,21 @@
+/* TEAM */
+App: Krypta Life Counter
+Developer: Gnegnoli
+Contact: acavallaro.ge@gmail.com
+Community: Tigullio Magic Team (https://tigulliomagicteam.it/)
+Site: https://krypta.altervista.org/
+Location: Italia
+
+/* THANKS */
+Magic: The Gathering players everywhere
+The React & Vite community
+Contributors and users who provide feedback
+
+/* SITE */
+Last update: 2026/09/30
+Standards: HTML5, CSS3, JavaScript ES2020+
+Components: React 19, Vite, Tailwind CSS v4
+Software: TypeScript, PWA
+Technologies: Service Workers, LocalStorage, PWA static hosting
+Accessibility: WCAG 2.1 AA compliant color contrast
+SEO: Structured data, Open Graph, Twitter Cards, sitemap.xml

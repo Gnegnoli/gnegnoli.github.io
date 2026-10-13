@@ -1,0 +1,12 @@
+Contact: https://github.com/Gnegnoli/krypta-counter/security/advisories/new
+Preferred-Languages: it, en
+Canonical: https://krypta.altervista.org/.well-known/security.txt
+Policy: https://github.com/Gnegnoli/krypta-counter/blob/main/SECURITY.md
+Acknowledgments: https://github.com/Gnegnoli/krypta-counter/blob/main/README.md#acknowledgments
+
+# Krypta Life Counter Security Policy
+#
+# If you discover a security vulnerability in Krypta Life Counter,
+# please report it via GitHub Security Advisories.
+# We appreciate responsible disclosure and will acknowledge
+# your contribution in our README.
